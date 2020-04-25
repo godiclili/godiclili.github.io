@@ -19,11 +19,13 @@ h1,h2,h3,h4,h5,h6{
 p{
 	margin:0;
 	padding:0;
+	font-family: "微軟正黑體";
 }
 
 a{
 	text-decoration: none;
 	color: #fb6c6c;
+	font-family: "微軟正黑體";
 }
 
 a:hover{
@@ -72,7 +74,8 @@ header .navbar-default .navbar-nav>li>a:hover,
 header .navbar-default .navbar-nav>li>a:focus,
 header .navbar-default .navbar-nav>li.open>a:hover, 
 header .navbar-default .navbar-nav>li.open>a:focus {
-	border: 1px solid #ffffff;
+    border: 1px solid #ffffff;
+    font-family: "微軟正黑體";
 }
 
 header .navbar-nav .dropdown-menu {
@@ -128,8 +131,21 @@ header .navbar-brand img {
     padding-bottom: 46px;
     text-align: center;
     background-size: 2023px auto;
-    margin-bottom: -3px;
-    margin-top: -68px;
+    margin-bottom: -13px;
+    margin-top: -34px;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,15 +153,28 @@ header .navbar-brand img {
 	background: #fff url('../img/library.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 2200px auto;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    background-size: auto auto;
+    padding-top: 161px;
+    padding-bottom: 125px;
     text-align: center;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 >>>>>>> parent of f689c36... ssssss
-;             background-image: url(../img/library2.png);
+;                                                                 background-image: url(../img/library.jpg);
 }
 
 .banner h2 {
@@ -155,6 +184,7 @@ header .navbar-brand img {
 	line-height: 35px;
 	color: #eee;
 	text-transform: capitalize;
+	font-family: "微軟正黑體";
 }
 .banner h3 {
 	margin-top: 20px;
@@ -164,12 +194,14 @@ header .navbar-brand img {
 	color: #ddd;
 	text-transform: uppercase;
 	letter-spacing: 0.055em;
+	font-family: "微軟正黑體";
 }
 
 .banner .btn {
 	padding: 7px 25px;
 	font-size: 14px;
 	border-radius: 30px;
+	font-family: "微軟正黑體";
 }
 
 /*
@@ -183,13 +215,15 @@ header .navbar-brand img {
 .default-heading h2 {
 	margin-top: 0;
 	margin-bottom: 20px;
-	font-size: 32px; 
+	font-size: 32px;
+	font-family: "微軟正黑體";
 }
 .default-heading p {
 	font-size: 14px;
 	line-height: 26px;
 	text-transform: capitalize;
 	letter-spacing: 0.055em;
+	font-family: "微軟正黑體";
 }
 
 /*
@@ -210,6 +244,7 @@ header .navbar-brand img {
 .works .work-item h3 {
 	margin-top: 20px;
 	font-size: 22px;
+	font-family: "微軟正黑體";
 }
 
 .works .work-item .org {
@@ -217,6 +252,7 @@ header .navbar-brand img {
 	font-size: 13px;
 	font-style: italic;
 	text-transform: uppercase;
+	font-family: "微軟正黑體";
 }
 
 /*
@@ -237,11 +273,13 @@ header .navbar-brand img {
 .team .member h4 {
 	margin-top: 20px;
 	font-size: 22px;
+	font-family: "微軟正黑體";
 }
 .team .member p {
 	padding: 0 15px;
 	font-size: 14px;
 	line-height: 23px;
+	font-family: "微軟正黑體";
 }
 
 
@@ -257,11 +295,13 @@ header .navbar-brand img {
 .contact h3 {
 	margin-top: 0px;
 	font-size: 20px;
+	font-family: "微軟正黑體";
 }
 .contact p {
 	padding: 0 15px;
 	font-size: 14px;
 	line-height: 23px;
+	font-family: "微軟正黑體";
 }
 
 footer {
@@ -281,6 +321,7 @@ footer p a {
 	text-transform: uppercase;
 	letter-spacing: 0.055em;
 	color: #fff;
+	font-family: "微軟正黑體";
 }
 footer p a:hover { color: #000000; }
 footer img {
@@ -301,6 +342,7 @@ footer .social a {
 	background: #fff;
 	font-size: 14px;
 	border-radius: 4px;
+	font-family: "微軟正黑體";
 }
 
 footer .social a  i {
@@ -347,3 +389,6 @@ footer .copy-right {
 @media (max-width: 991px){
 
 }
+a {
+	font-family: "微軟正黑體";
+	
