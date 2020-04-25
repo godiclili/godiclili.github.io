@@ -131,8 +131,16 @@ header .navbar-brand img {
     padding-bottom: 46px;
     text-align: center;
     background-size: 2023px auto;
-    margin-bottom: -13px;
-    margin-top: -34px;
+    margin-bottom: -1px;
+    margin-top: -101px;
+
+
+
+
+
+
+
+
 
 
 
@@ -153,9 +161,9 @@ header .navbar-brand img {
 	background: #fff url('../img/library.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto auto;
-    padding-top: 161px;
-    padding-bottom: 125px;
+    background-size: cover;
+    padding-top: 337px;
+    padding-bottom: 123px;
     text-align: center;
 
 
@@ -173,8 +181,16 @@ header .navbar-brand img {
 
 
 
+
+
+
+
+
+
+
+
 >>>>>>> parent of f689c36... ssssss
-;                                                                 background-image: url(../img/library.jpg);
+;                                                                                                 background-image: url(../img/cover.jpg);
 }
 
 .banner h2 {
