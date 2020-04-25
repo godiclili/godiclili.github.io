@@ -122,75 +122,17 @@ header .navbar-brand img {
  */
  
 .banner {
-<<<<<<< HEAD
-    background-image: url(../img/library2.png);
-    background-color: #fff;
     background-repeat: no-repeat;
     background-position: center;
-    padding-top: 241px;
-    padding-bottom: 46px;
-    text-align: center;
-    background-size: 2023px auto;
     margin-bottom: -1px;
     margin-top: -101px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-	background: #fff url('../img/library.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
     padding-top: 337px;
     padding-bottom: 123px;
     text-align: center;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> parent of f689c36... ssssss
-;                                                                                                 background-image: url(../img/cover.jpg);
+	background-image: url(../img/cover.jpg);
 }
 
 .banner h2 {
