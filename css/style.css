@@ -119,14 +119,13 @@ header .navbar-brand img {
  */
  
 .banner {
-    background-image: url('../img/library.jpg');
-    background-color: #fff;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding-top: 143px;
-    padding-bottom: 46px;
-    text-align: center;
-    background-size: 2023px auto;
+	background: #fff url('../img/library.jpg');	   
+	background-repeat: no-repeat;	    background-color: #fff;
+	background-position: center;	    background-repeat: no-repeat;
+	background-size: 1100px 500px;	    background-position: center;
+	padding-top: 150px;	    padding-top: 143px;
+	padding-bottom: 150px;	    padding-bottom: 46px;
+	text-align: center;
 }
 
 .banner h2 {
