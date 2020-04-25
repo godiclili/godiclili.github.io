@@ -69,12 +69,11 @@ header .navbar-nav>li>a {
 
 header p a:hover { color: #ffffff; }
 
-header .navbar-default .navbar-nav>li>a:hover { color: #000000; }, 
+header .navbar-default .navbar-nav>li>a:hover, 
 header .navbar-default .navbar-nav>li>a:focus,
 header .navbar-default .navbar-nav>li.open>a:hover, 
 header .navbar-default .navbar-nav>li.open>a:focus {
-	background: #fff;
-	border: 1px solid #fb6c6c;
+	border: 1px solid #ffffff;
 }
 
 header .navbar-nav .dropdown-menu {
