@@ -179,7 +179,6 @@ header .navbar-brand img {
 .default-heading p {
 	font-size: 14px;
 	line-height: 26px;
-	text-transform: capitalize;
 	letter-spacing: 0.055em;
 	font-family: "微軟正黑體";
 }
