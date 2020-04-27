@@ -150,7 +150,6 @@ header .navbar-brand img {
 	font-size: 20px;
 	line-height: 25px;
 	color: #ddd;
-	text-transform: uppercase;
 	letter-spacing: 0.055em;
 	font-family: "微軟正黑體";
 }
@@ -208,7 +207,6 @@ header .navbar-brand img {
 	display: block;
 	font-size: 13px;
 	font-style: italic;
-	text-transform: uppercase;
 	font-family: "微軟正黑體";
 }
 
@@ -275,7 +273,6 @@ footer p {
 footer p a { 
 	font-size: 14px;
 	line-height: 26px;
-	text-transform: uppercase;
 	letter-spacing: 0.055em;
 	color: #fff;
 	font-family: "微軟正黑體";
